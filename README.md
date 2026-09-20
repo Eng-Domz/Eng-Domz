@@ -34,22 +34,22 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,tailwind,tensorflow,pytorch,sklearn,mongodb,postgres,docker,git,github&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,react,ts,js,nodejs,express,html,css,tailwind,docker,git,github,postgres,mongodb&perline=9)](https://skillicons.dev)
 
 </div>
 
-**AI & data:** Machine Learning · Deep Learning · NLP · LLMs · RAG · Pandas · NumPy · scikit-learn · Hugging Face  
-**Web:** React · TypeScript · JavaScript · Node.js · Express · Tailwind CSS · REST APIs  
+**AI & data:** Machine Learning · Deep Learning · NLP · LLMs · RAG · Pandas · NumPy · scikit-learn · Hugging Face
+
+**Web:** React · TypeScript · JavaScript · Node.js · Express · Tailwind CSS · REST APIs
+
 **Engineering:** Git · GitHub · Docker · PostgreSQL · MongoDB · Problem Solving
 
 ## GitHub at a glance
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eng-Domz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adham's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Domz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Adham's most-used languages" />
-
-</div>
+| AI & Machine Learning | NLP, LLMs & RAG | Web Engineering |
+|---|---|---|
+| Classical ML, deep learning, and generative models | Fine-tuning, alignment, NER, and grounded question answering | React, TypeScript, Node.js, and REST APIs |
+| [Explore ML projects](https://github.com/Eng-Domz?tab=repositories&q=topic%3Amachine-learning) | [Explore NLP projects](https://github.com/Eng-Domz?tab=repositories&q=topic%3Anlp) | [Explore web projects](https://github.com/Eng-Domz?tab=repositories&q=topic%3Areact) |
 
 ## Continuous learning
 
@@ -59,12 +59,6 @@
 - Web Development Complete Bootcamp — Route
 - Node.js Bootcamp — Frontend Masters
 
----
-
-<div align="center">
-
 ### Let's build something meaningful
 
 Explore my repositories, or reach out on [LinkedIn](https://www.linkedin.com/in/adham-ahmed-03ab43245/) to talk about AI, software engineering, or collaboration opportunities.
-
-</div>
