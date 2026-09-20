@@ -1,93 +1,70 @@
-# Hi, I'm Adham 👋
+<div align="center">
 
-Passionate Engineering Student |  Aspiring ML/AI Expert | Web Developer
+# Hi, I'm Adham Ahmed 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI%2FML+%26+NLP+Builder;Full-Stack+Developer;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-## 💡 About Me
+**I turn ideas into practical AI systems and polished web experiences.**
 
-- 🎓 Engineering student with a keen interest in **Machine Learning**, **Artificial Intelligence**, and **Web Development**.
-- 🌟 Specialized in solving challenging **problem-solving** tasks, constantly sharpening my logic and algorithms.
-- 👷 I’ve completed numerous **personal projects** showcasing my skills in **Machine learning**,**web technologies** and **AI models**.
-- 📖 An ardent believer in lifelong learning—collected **certificates** in key areas including **ML**, **AI**, and **Web Development**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adham%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-ahmed-03ab43245/)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aagfetouh@gmail.com)
 
----
+</div>
 
-## 🛠️ Languages and Tools
+## About me
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- 🎓 Computer Engineering student based in Egypt
+- 🤖 Building projects across **machine learning, NLP, LLMs, and generative AI**
+- 🌐 Developing modern web applications with **React, TypeScript, Node.js, and Python**
+- 🧠 Interested in problem solving, algorithms, and turning prototypes into useful products
+- 🤝 Open to internships, collaborations, and ambitious engineering projects
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Featured projects
 
-### 📚 Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [QA RAG Bot](https://github.com/Eng-Domz/QA_RAG_BOT) | Retrieval-augmented question answering designed to produce grounded responses | Python · RAG · LLMs |
+| [Open-Source LLM Fine-Tuning & Alignment](https://github.com/Eng-Domz/open-source-LLM-finetuning-Alignment) | Experiments in adapting and aligning open-source language models | Python · NLP · Jupyter |
+| [Music Generation](https://github.com/Eng-Domz/Music_Generation) | Generative AI experiments for creating music | Python · Deep Learning |
+| [Forecastly](https://github.com/Eng-Domz/Forecastly) | A clean weather experience with real-time forecast insights | React · TypeScript · Vite |
+| [Book Store](https://github.com/Eng-Domz/Book-Store) | A complete web experience for browsing and managing books | JavaScript · Web Development |
+| [E-Commerce](https://github.com/Eng-Domz/ECommrence) | A responsive storefront interface | React · Tailwind CSS · Vite |
 
-### 🏭 Libraries, Tools, and Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Technical toolkit
 
-### 🔍 Machine Learning and AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
+<div align="center">
 
----
+[![Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,tailwind,tensorflow,pytorch,sklearn,mongodb,postgres,docker,git,github&perline=8)](https://skillicons.dev)
 
-## 🏆 Certificates
-- 📜 **Supervised and Unsupervised learning** by [DataCamp]
-- 📜 **Deep Learning with TensorFlow** by [Nividia]
-- 📜 **MEAN-Stack Web Development** by [ITI]
-- 📜 **Web Development Complete Bootcamp** by [Route]
-- 📜 **Node Bootcamp** by [Frontend Masters]
-- 🎯 **More on the way!**
+</div>
+
+**AI & data:** Machine Learning · Deep Learning · NLP · LLMs · RAG · Pandas · NumPy · scikit-learn · Hugging Face  
+**Web:** React · TypeScript · JavaScript · Node.js · Express · Tailwind CSS · REST APIs  
+**Engineering:** Git · GitHub · Docker · PostgreSQL · MongoDB · Problem Solving
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eng-Domz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adham's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Domz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Adham's most-used languages" />
+
+</div>
+
+## Continuous learning
+
+- Supervised and Unsupervised Learning — DataCamp
+- Deep Learning with TensorFlow — NVIDIA
+- MEAN-Stack Web Development — ITI
+- Web Development Complete Bootcamp — Route
+- Node.js Bootcamp — Frontend Masters
 
 ---
 
-## 🌟 Explore My Organizations
+<div align="center">
 
-I'm actively contributing to and building amazing things in these organizations. Check them out:
+### Let's build something meaningful
 
-### 🤖 **Machine Learning Organization**
-- 🌟 **[Machine learning ORG](https://github.com/Eng-Domz-Machine-Learning)**  
-Home to my **Machine Learning** and **AI** projects, including custom ML models and cutting-edge AI applications built with frameworks like **TensorFlow**, **PyTorch**, and more.
+Explore my repositories, or reach out on [LinkedIn](https://www.linkedin.com/in/adham-ahmed-03ab43245/) to talk about AI, software engineering, or collaboration opportunities.
 
-### 🌐 **Web Development Organization**
-- 🌟 **[Web Development ORG](https://github.com/Eng-Domz-Web-Development)**  
-Focused on creating modern, responsive, and feature-rich **web applications** using frameworks like **React**, **Node.js**, **Django**, and more.
-
----
-
-🔗 **Make sure to visit and explore their repositories for more details on all the awesome work I'm doing!**
-
----
-
-## 🌍 Let's Connect!
-
-- 🤝 [LinkedIn](https://www.linkedin.com/in/adham-ahmed-03ab43245/)  
-- 💌 [Gmail](mailto:aagfetouh@gmail.com)    
-
-Feel free to reach out and discuss the latest trends in **AI**, **ML**, or an exciting project opportunity!
-
----
+</div>
